@@ -145,8 +145,37 @@ http://localhost/uas/
 ---
 
 ## Dokumentasi
-<img src="gambar/1.png" width="500"/>
+### 1. Login (admin)
+<img src="gambar/login (admin).png" width="500"/>
 
+### 2. list barang (admin)
+<img src="gambar/list (admin).png" width="500"/>
+
+### 3. Tambah barang
+<img src="gambar/tambah.png" width="500"/>
+
+### 4. Search
+<img src="gambar/search.png" width="500"/>
+
+### 5. Pagination
+<img src="gambar/pagination.png" width="500"/>
+
+### 6. Ubah barang
+<img src="gambar/ubah.png" width="500"/>
+
+### 7. Hapus barang
+<img src="gambar/del.png" width="500"/>
+
+### 8. Search (Tampilan mencari barang yang dihapus)
+<img src="gambar/search2.png" width="500"/>
+
+### 9. Login (user)
+<img src="gambar/login (user).png" width="500"/>
+
+### 10. list barang (user)
+<img src="gambar/list (user).png" width="500"/>
+
+---
 
 ## ✍️ Penutup
 Projek ini dibuat sebagai implementasi konsep:
