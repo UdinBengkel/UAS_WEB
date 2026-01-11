@@ -31,6 +31,7 @@ Projek ini dibuat untuk memenuhi **Ujian Akhir Semester (UAS) Mata Kuliah Pemrog
 ---
 
 ## 🧩 Struktur Folder
+```
 projek_modular/
 │
 ├── assets/
@@ -57,7 +58,7 @@ projek_modular/
 ├── index.php
 ├── .htaccess
 └── README.md
-
+```
 
 ---
 
